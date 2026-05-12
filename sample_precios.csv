@@ -1,0 +1,49 @@
+producto,presentacion,marca,categoria,precio,cadena_comercial,nombre_comercial,direccion,estado,municipio,fechaRegistro,latitud,longitud
+Huevo,18 piezas,Bachoco,Básicos,58.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Huevo,18 piezas,San Juan,Básicos,61.50,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Huevo,18 piezas,Genérica,Básicos,55.00,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Leche,1 litro,Lala,Lácteos,29.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Leche,1 litro,Alpura,Lácteos,31.20,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Leche,1 litro,Genérica,Lácteos,27.50,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Arroz,1 kg,Verde Valle,Básicos,35.80,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Arroz,1 kg,Genérico,Básicos,28.90,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Arroz,1 kg,Súper Aki,Básicos,30.50,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Frijol negro,1 kg,Verde Valle,Básicos,48.00,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Frijol negro,1 kg,Genérico,Básicos,42.50,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Frijol negro,1 kg,Súper Aki,Básicos,44.90,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Tortilla de maíz,1 kg,Genérica,Básicos,24.00,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Tortilla de maíz,1 kg,Genérica,Básicos,25.50,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Tortilla de maíz,1 kg,Genérica,Básicos,23.80,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Pechuga de pollo,1 kg,Genérica,Carnes,112.00,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Pechuga de pollo,1 kg,Genérica,Carnes,109.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Pechuga de pollo,1 kg,Genérica,Carnes,105.50,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Atún en agua,140 g,Dolores,Enlatados,22.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Atún en agua,140 g,Tuny,Enlatados,20.90,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Atún en agua,140 g,Genérico,Enlatados,19.50,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Pasta espagueti,200 g,La Moderna,Básicos,11.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Pasta espagueti,200 g,Genérica,Básicos,10.50,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Lenteja,500 g,Verde Valle,Básicos,29.90,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Lenteja,500 g,Genérica,Básicos,25.00,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Avena,400 g,Quaker,Cereales,38.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Avena,400 g,Genérica,Cereales,30.00,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Plátano,1 kg,Genérico,Frutas,24.90,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Plátano,1 kg,Genérico,Frutas,25.90,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Jitomate,1 kg,Genérico,Verduras,29.90,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Jitomate,1 kg,Genérico,Verduras,31.50,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Cebolla blanca,1 kg,Genérica,Verduras,26.90,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Cebolla blanca,1 kg,Genérica,Verduras,28.00,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Zanahoria,1 kg,Genérica,Verduras,22.90,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Zanahoria,1 kg,Genérica,Verduras,21.50,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Queso Oaxaca,400 g,Esmeralda,Lácteos,72.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Queso manchego,400 g,Genérico,Lácteos,69.50,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Jamón de pavo,250 g,Fud,Embutidos,49.90,Soriana,Soriana Hiper Canek,"Av. Jacinto Canek, Mérida",Yucatán,Mérida,2026-05-01,20.9845,-89.6505
+Jamón de pavo,250 g,Genérico,Embutidos,42.00,Bodega Aurrera,Bodega Aurrera Itzaes,"Av. Itzaes, Mérida",Yucatán,Mérida,2026-05-01,20.9642,-89.6420
+Mayonesa,390 g,McCormick,Abarrotes,45.90,Walmart,Walmart Mérida Norte,"Calle 60 Norte, Mérida",Yucatán,Mérida,2026-05-01,21.0285,-89.6208
+Tostadas,280 g,Milpa Real,Básicos,38.50,Chedraui,Chedraui Selecto Norte,"Mérida Norte",Yucatán,Mérida,2026-05-01,21.0302,-89.6290
+Bolillo,1 pieza,Panadería,Básicos,4.50,Súper Aki,Súper Aki Alemán,"Col. Alemán, Mérida",Yucatán,Mérida,2026-05-01,20.9994,-89.5941
+Huevo,18 piezas,Genérica,Básicos,57.00,Súper Aki,Súper Aki Playa,"Centro, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6296,-87.0739
+Leche,1 litro,Lala,Lácteos,30.90,Chedraui,Chedraui Playa,"Centro, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6301,-87.0750
+Arroz,1 kg,Genérico,Básicos,31.00,Bodega Aurrera,Bodega Aurrera Playa,"Av. 30, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6392,-87.0824
+Frijol negro,1 kg,Genérico,Básicos,43.90,Bodega Aurrera,Bodega Aurrera Playa,"Av. 30, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6392,-87.0824
+Tortilla de maíz,1 kg,Genérica,Básicos,25.00,Súper Aki,Súper Aki Playa,"Centro, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6296,-87.0739
+Pechuga de pollo,1 kg,Genérica,Carnes,116.00,Chedraui,Chedraui Playa,"Centro, Playa del Carmen",Quintana Roo,Playa del Carmen,2026-05-01,20.6301,-87.0750
